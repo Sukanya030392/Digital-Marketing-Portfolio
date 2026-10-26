@@ -242,17 +242,17 @@ The project covers marketing performance indicators across paid advertising, web
 
 
 
-Area	KPIs
+Area and KPIs
 
-Google Ads	Impressions, clicks, CTR, spend, CPC, conversions
+Google Ads - Impressions, clicks, CTR, spend, CPC, conversions
 
-Google Analytics 4	Users, sessions, engagement rate, traffic acquisition
+Google Analytics 4 - Users, sessions, engagement rate, traffic acquisition
 
-Social media	Reach, impressions, likes, comments, shares, engagement rate
+Social media - Reach, impressions, likes, comments, shares, engagement rate
 
-Power BI	KPI monitoring, trend comparisons, performance visualization
+Power BI - KPI monitoring, trend comparisons, performance visualization
 
-Excel	Data preparation, calculations, and performance reporting
+Excel - Data preparation, calculations, and performance reporting
 
 
 
