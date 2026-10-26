@@ -4,7 +4,7 @@
 
 
 
-##### **Project Overview**
+### **Project Overview**
 
 
 
@@ -22,7 +22,7 @@ The objective was to evaluate marketing performance, monitor key performance ind
 
 
 
-##### **Project Objectives**
+### **Project Objectives**
 
 
 
@@ -44,7 +44,7 @@ The objective was to evaluate marketing performance, monitor key performance ind
 
 
 
-##### **Tools and Technologies**
+### **Tools and Technologies**
 
 
 
@@ -62,7 +62,7 @@ The objective was to evaluate marketing performance, monitor key performance ind
 
 
 
-##### **Project Scope**
+### **Project Scope**
 
 
 
@@ -101,6 +101,8 @@ Analysis focus:
 \- Performance trends over the analysis period
 
 \- Identification of optimization opportunities
+
+
 
 
 
@@ -144,6 +146,8 @@ Analysis focus:
 
 
 
+
+
 **3. Power BI Dashboard Development**
 
 
@@ -164,6 +168,8 @@ Dashboard objectives:
 
 
 
+
+
 Dashboard screenshots:
 
 Google\_Ads\_Dashboard
@@ -171,6 +177,8 @@ Google\_Ads\_Dashboard
 Google\_Analytics\_Dashboard
 
 Social\_Media\_Dashboard
+
+
 
 
 
@@ -195,6 +203,8 @@ Activities included, where applicable:
 \- Trend analysis
 
 \- Preparing data for Power BI visualizations
+
+
 
 
 
@@ -224,7 +234,7 @@ Examples of content created during previous professional experience.
 
 
 
-##### **Key Performance Indicators (KPIs)**
+### **Key Performance Indicators (KPIs)**
 
 
 
@@ -252,7 +262,7 @@ Excel	Data preparation, calculations, and performance reporting
 
 
 
-##### **Key Insights and Recommendations**
+### **Key Insights and Recommendations**
 
 
 
@@ -272,9 +282,9 @@ This section will document the actual findings derived from the historical data,
 
 
 
-##### 
 
-##### **Skills Demonstrated**
+
+### **Skills Demonstrated**
 
 
 
@@ -296,7 +306,7 @@ This section will document the actual findings derived from the historical data,
 
 
 
-##### **Project Details**
+### **Project Details**
 
 
 
@@ -314,7 +324,7 @@ This section will document the actual findings derived from the historical data,
 
 
 
-##### **Conclusion**
+### **Conclusion**
 
 
 
